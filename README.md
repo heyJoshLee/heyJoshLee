@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heyJoshLee
-- 👀 I’m interested in Javascript, React, Ruby, and Ruby on Rails. I LOVE working with a React front-end and Rails back end.
-- 🌱 I’m currently learning React Native and TypeScript.
+- 👀 I write full-stack Javascript, but I'm an engineer so I can also build in Ruby, Ruby on Rails, and whatever's best for the job
+- 🌱 I’m currently making the transition to Typescript.
 - 💞️ I’m looking to collaborate on remote projects.
-- 📫 How to reach me: Contact me on my [LinkedIn](https://www.linkedin.com/in/josh-lee-code-/).
+- 📫 How to reach me: Contact me on my [LinkedIn](https://www.linkedin.com/in/itsjoshlee).
 
 <!---
 heyJoshLee/heyJoshLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
